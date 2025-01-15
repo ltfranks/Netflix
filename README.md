@@ -1,4 +1,4 @@
-This project is meant to model some functionality of the Netflix web app and help develop hands-on learning experience using modern web dev tools and technologies.
+This project is meant to model components of the Netflix web app and develop a hands-on learning experience using modern web dev tools and technologies.
 
 Features
 * User authentication with secure login and registration (google & github).
